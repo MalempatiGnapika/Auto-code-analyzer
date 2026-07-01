@@ -1,7 +1,11 @@
-openai==0.28
-tiktoken
-chromadb==0.4.4
-langchain==0.0.249
-flask
-GitPython
+langchain>=0.3,<1.0
+langchain-core>=0.3,<1.0
+langchain-community>=0.3,<1.0
+langchain-text-splitters>=0.3,<1.0
+langchain-cohere<0.4
+langchain-chroma<0.2
+chromadb
+cohere
 python-dotenv
+GitPython
+flask
