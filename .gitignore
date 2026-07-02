@@ -11,6 +11,7 @@ __pycache__/
 repo/
 test_repo/
 db/
+db_store/
 
 # Distribution / packaging
 .Python
